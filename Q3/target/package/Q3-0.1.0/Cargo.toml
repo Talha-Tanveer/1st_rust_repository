@@ -15,7 +15,7 @@ edition = "2018"
 name = "Q3"
 version = "0.1.0"
 authors = ["Talha-Tanveer <talhatanveer10@gmail.com>"]
-description = "by using this crate you can print counting. for using this crate you can write these lines in your main.rs file. 'extern crate Q3;' , 'Q3::counter(start value, end value);' "
+description = "This library crate contains a module and a sub module, a function is present in this sub module. To use this crate write thses lines in main.rs file. 'extern crate Q3;' , 'Q3::fruit_and_vegetable_shop::fruit_corner::types_of_oranges();' "
 license = "MIT"
 repository = "https://github.com/Talha-Tanveer/1st_rust_repository"
 
