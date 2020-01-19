@@ -1,5 +1,8 @@
-pub fn counter(start: i32, end: i32) {
-    for index in start..end{
-        println!("Counting: {}", index);
+
+pub mod fruit_and_vegetable_shop {
+    pub mod fruit_corner{
+        pub fn types_of_oranges() {
+
+        }
     }
 }

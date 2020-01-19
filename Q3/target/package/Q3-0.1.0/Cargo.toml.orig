@@ -1,0 +1,11 @@
+[package]
+name = "Q3"
+version = "0.1.0"
+authors = ["Talha-Tanveer <talhatanveer10@gmail.com>"]
+edition = "2018"
+description = "by using this crate you can print counting. for using this crate you can write these lines in your main.rs file. 'extern crate Q3;' , 'Q3::counter(start value, end value);' "
+license = "MIT"
+repository = "https://github.com/Talha-Tanveer/1st_rust_repository"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
